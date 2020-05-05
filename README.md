@@ -7,7 +7,7 @@ Valentina Puentes Valenciano es una estudiante de geociencias en la Unviersidad 
 Esto esta escrito en markdown 
 _____________________________
 
-![texto](https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday)
+![texto](www.parquesnacionales.gov.co/portal/es/parques-nacionales/parque-nacional-natural-complejo-volcanico-dona-juana-cascabel/)
 
 # En colaboración con:
 
