@@ -8,3 +8,7 @@ Esto esta escrito en markdown
 _____________________________
 
 ![texto](https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday)
+
+# En colaboración con:
+
+Setroc Zemog Odranoel Epilef
