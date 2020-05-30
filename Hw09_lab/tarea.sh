@@ -1,1 +1,3 @@
-llama a main.cpp
+#include "main.cpp"
+
+
